@@ -10,7 +10,7 @@ My implemented api for viewing facts is fully functional and runs on localhost:5
 
 A query flag can be passed to the the cli which will query the localhost api
 
-## python3 catcli.py --query delete
+#### python3 catcli.py --query delete
 
 screenshot of loaded db:
 
