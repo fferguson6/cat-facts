@@ -14,4 +14,4 @@ A query flag can be passed to the the cli which will query the localhost api
 
 screenshot of loaded db:
 
-![db_image](Screenshot 2020-11-18 at 02.04.43.png)
+[db_image](Screenshot 2020-11-18 at 02.04.43.png)
