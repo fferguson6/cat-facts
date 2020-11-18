@@ -18,4 +18,5 @@ A query flag can be passed to the the cli which will query the localhost api:
 
 screenshot of loaded db:
 
-![ScreenShot](Screenshot 2020-11-18 at 02.04.43.png)
+![alt text](https://github.com/fferguson6/cat-facts/raw/main/Screenshot%202020-11-18%20at%2002.04.43.png "db_image")
+
